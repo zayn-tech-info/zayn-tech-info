@@ -32,5 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayn-tech-info&show_icons=true&locale=en&layout=compact" alt="zayn-tech-info" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayn-tech-info&show_icons=true&locale=en" alt="zayn-tech-info" /></p>
-
+<b></b>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayn-tech-info&" alt="zayn-tech-info" /></p>
