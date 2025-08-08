@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, <b>Yakubu Abdulbasit</b> a <i>Software developer</i> with a solid foundation in <i>React, Node.js, and JavaScript</i> 💻, currently sharpening skills in Tailwind CSS and modern web development best practices ⚙. I enjoy creating functional, user-friendly applications 🌐, from simple tools to advanced projects. Passionate about emerging technologies like AI 🤖 and AR/VR, I’m driven to learn, build, and contribute to innovative solutions 🚀.</p>
+<p align="center">Hi 👋 I'm <b>Yakubu Abdulbasit,</b> a <i>Software developer</i> with a solid foundation in <i>React, Node.js, and JavaScript</i> 💻, currently sharpening skills in Tailwind CSS and modern web development best practices ⚙. I enjoy creating functional, user-friendly applications 🌐, from simple tools to advanced projects. Passionate about emerging technologies like AI 🤖 and AR/VR, I’m driven to learn, build, and contribute to innovative solutions 🚀.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayn-tech-info&label=Profile%20views&color=0e75b6&style=flat" alt="zayn-tech-info" /> </p>
 
