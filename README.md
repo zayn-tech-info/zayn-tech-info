@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me::
 👨‍💻 I write code with purpose, not just syntax.<br>🚀 From simple ideas to complex apps, I keep pushing limits.<br>⚡ Learning daily — Web Dev → AI/ML → Web3 → Beyond.<br>My goal? Build things that matter, stay consistent, and inspire...
 
 
